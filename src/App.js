@@ -3,7 +3,7 @@ import Product from "./components/Product";
 function App() {
   return (
     <div>
-      <h1>Awesome Store</h1>
+      <h1>Wellcome to my Awesome Store</h1>
       <Product />
       <Product />
     </div>
